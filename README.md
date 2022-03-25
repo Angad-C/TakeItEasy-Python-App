@@ -17,4 +17,9 @@ Then execute:
 <pre>
 python takeiteasy.py
 </pre>
+
+If you like this - also check out http://takeiteasy.angadc.net
+
+(c) www.angadc.net
+
 -- end --
