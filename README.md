@@ -23,5 +23,3 @@ python takeiteasy.py
 If you like this - also check out http://takeiteasy.angadc.net
 
 (c) www.angadc.net
-
--- end --
