@@ -21,5 +21,3 @@ python takeiteasy.py
 <h2><a href="https://docs.google.com/document/d/1xNYhjecGVpCT4bP0q_9w_f8CUdxNqdYEYsF8Y4fUrO0/edit?usp=sharing" target="_blank"> Documentation</a></h2>
 
 If you like this - also check out http://takeiteasy.angadc.net
-
-My Website: www.angadc.net
