@@ -18,6 +18,7 @@ Then execute:
 python takeiteasy.py
 </pre>
 
-<h2>Documentation [https://docs.google.com/document/d/1xNYhjecGVpCT4bP0q_9w_f8CUdxNqdYEYsF8Y4fUrO0/edit?usp=sharing]</h2>
+<h2>Documentation</h2>
+Documentation link: [https://docs.google.com/document/d/1xNYhjecGVpCT4bP0q_9w_f8CUdxNqdYEYsF8Y4fUrO0/edit?usp=sharing]
 
 If you like this - also check out http://takeiteasy.angadc.net
